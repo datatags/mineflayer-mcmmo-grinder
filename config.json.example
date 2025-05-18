@@ -1,0 +1,8 @@
+{
+    "minecraft_username": "my.minecraft.account@example.com",
+    "target_server": "example.com",
+    "target_port": 25565,
+    "discord_bot_token": "YOUR_DISCORD_BOT_TOKEN",
+    "discord_channel_id": "YOUR_DISCORD_CHANNEL_ID",
+    "discord_author_filter": "YOUR_DISCORD_USER_ID"
+}
